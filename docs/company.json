@@ -1,0 +1,17 @@
+{
+  "id": "14837428",
+  "company": "BORG DESIGN SRL",
+  "brand": "BORG DESIGN",
+  "status": "activ",
+  "location": [
+    "București"
+  ],
+  "website": [
+    "https://www.borgdesign.ro"
+  ],
+  "career": [
+    "https://jobs.borgdesign.ro/"
+  ],
+  "scraperFile": "https://github.com/peviitor-scrapers/borgdesign-srl-nodejs-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://jobs.borgdesign.ro/"
+}

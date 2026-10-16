@@ -1,0 +1,22 @@
+{
+  "userAgent": "job_seeker_ro_spider",
+  "requestTimeoutMs": 10000,
+  "pageDelayMs": 1000,
+  "rendering": { "mode": "static", "waitSelector": "", "timeoutMs": 30000 },
+  "staleJobDeletion": false,
+  "manageCompany": true,
+  "defaultLocation": ["București"],
+  "defaultWorkmode": "on-site",
+  "ownJobUrlPrefix": "https://jobs.borgdesign.ro/",
+  "sources": {
+    "sitemap": "",
+    "positions": "https://jobs.borgdesign.ro/",
+    "listing": "https://jobs.borgdesign.ro/",
+    "jobArchive": "https://jobs.borgdesign.ro/"
+  },
+  "selectors": {
+    "jobArticle": ["", "[class*='job']", ".vacancy, .position, .listing-item"],
+    "jobTitle": ["", "h1, h2, h3, h4", "[itemprop='title'], [aria-label]", "a"],
+    "jobMeta": ["", "p, .meta, [class*='deadline']"]
+  }
+}

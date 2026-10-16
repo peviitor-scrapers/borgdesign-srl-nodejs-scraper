@@ -1,0 +1,85 @@
+{
+  "validatedAt": "2026-10-16T16:15:39.192Z",
+  "source": "ANAF",
+  "brand": "BORG DESIGN",
+  "anaf": {
+    "cui": 14837428,
+    "name": "BORG DESIGN SRL",
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 5, STR ING. ŞTEFAN HEPITEŞ, NR.16A, PARTER",
+    "registrationNumber": "J2002008118400",
+    "phone": "0213323785",
+    "fax": "0213320864",
+    "postalCode": "",
+    "caenCode": "6210",
+    "iban": "",
+    "registrationState": "TRANSFER(SOSIRE) din data 09.09.2020",
+    "registrationDate": "2002-08-26",
+    "fiscalAuthority": "Administraţia Sector 5 a Finanţelor Publice",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
+    "vatRegistered": true,
+    "vatPeriods": [
+      {
+        "start": "2002-08-26",
+        "end": null,
+        "yearStart": "",
+        "message": ""
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": false,
+    "headquartersAddress": {
+      "street": "Str. Ing. Ştefan Hepiteş",
+      "number": "16A",
+      "locality": "Sector 5 Mun. Bucureşti",
+      "county": "MUNICIPIUL BUCUREŞTI",
+      "country": "",
+      "postalCode": ""
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [],
+    "authorizedCaenCodes": [],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": {
+    "id": "14837428",
+    "company": "BORG DESIGN SRL",
+    "brand": "BORG DESIGN",
+    "status": "activ",
+    "location": [
+      "Ing. Ştefan Hepiteş, 16A, Bucureşti Sectorul 5, Bucureşti"
+    ],
+    "website": [
+      "https://www.borgdesign.ro"
+    ],
+    "career": [
+      "https://jobs.borgdesign.ro/"
+    ],
+    "lastScraped": "2026-07-26",
+    "scraperFile": "https://raw.githubusercontent.com/sebiboga/borgdesign-srl-nodejs-scraper/main/.github/workflows/scrape.yml",
+    "_version_": 1871783412992311300,
+    "_root_": "14837428"
+  },
+  "summary": {
+    "company": "BORG DESIGN SRL",
+    "cif": "14837428",
+    "active": true,
+    "inactiveSince": null,
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 5, STR ING. ŞTEFAN HEPITEŞ, NR.16A, PARTER"
+  }
+}
