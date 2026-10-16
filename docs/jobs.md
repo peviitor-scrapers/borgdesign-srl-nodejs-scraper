@@ -14,7 +14,7 @@
 
 ## Current Job Listings (8)
 
-_Generated: 2026-10-16T16:18:21.288Z_
+_Generated: 2026-10-16T16:19:12.473Z_
 
 ### Senior Web Developer
 
