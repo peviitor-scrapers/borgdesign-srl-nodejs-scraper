@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 5, STR ING. ŞTEFAN HEPITEŞ, NR.16A, PARTER |
 | Website | [https://www.borgdesign.ro](https://www.borgdesign.ro) |
 | Careers | [https://jobs.borgdesign.ro/](https://jobs.borgdesign.ro/) |
-| Last Scraped | 2026-11-11 |
+| Last Scraped | 2026-11-12 |
 
 ## Current Job Listings (8)
 
-_Generated: 2026-11-11T13:43:25.037Z_
+_Generated: 2026-11-12T14:46:53.300Z_
 
 ### Senior Web Developer
 
